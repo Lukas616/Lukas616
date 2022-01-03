@@ -2,7 +2,7 @@
 
 <img src=https://images.emojiterra.com/google/android-10/512px/1f527.png width="20px"><b>Technologies & Tools<b/>
   
-![](https://img.shields.io/badge/Code-?logo=Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<Java>&logoColor=white&color=2bbc8a)
 
 
 
