@@ -2,8 +2,8 @@
 
 <img src=https://images.emojiterra.com/google/android-10/512px/1f527.png width="20px"><b>Technologies & Tools<b/>
   
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<[encoded-20220103214911.txt](https://github.com/Lukas616/Lukas616/files/7804195/encoded-20220103214911.txt)
->)
+![](https://img.shields.io/badge/Code-?logo=JavaJava-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 
